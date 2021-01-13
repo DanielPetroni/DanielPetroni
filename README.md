@@ -30,6 +30,6 @@ Me chamo Daniel, sou um jovem estudante de 17 anos, atualmente estou graduando n
 
 -------
 
-#### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> Alguns números...
+#### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> Alguns números:
 ![Daniel Petroni GitHub Stats](https://github-readme-stats.vercel.app/api?username=DanielPetroni&hide=[%22stars%22]&show_icons=true)
 
