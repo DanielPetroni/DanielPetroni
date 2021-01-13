@@ -1,15 +1,9 @@
-### Hello World 🌎
+<h1 style="text-align: center;"> Hello World! 🌎</h1>  
 
 Me chamo Daniel, sou um jovem estudante de 17 anos, atualmente estou graduando no curso de Analise e desenvolvimento de sistemas, deste qual estou muito empolgado com o aprendizado. Desde menino me interessei pela tecnologia, achava tudo isso sensacional, simplesmente mágico...
 Comecei a me interessar pelo desenvolvimento quando por uma jogada do destino caí em um vídeo de HTML no youtube, onde o instrutor ensinava como criar uma página simples, só com alguns dados estáticos. Fiquei encantado, era e é ainda hoje, muito prazeroso para minha pessoa ver o computador executar o que eu tinha "pedido".
 
-<p align="center">
-    <h1> Hello World!</h1>  <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px">
-</p>
-
 :heart: Programação | :black_heart: Técnologia
-
-Me chamo Daniel, sou um jovem estudante de 17 anos, atualmente estou graduando no curso de Analise e desenvolvimento de sistemas, deste qual estou muito empolgado com o aprendizado. 
 
 - 🔭 Atualmente trabalho como analista Júnior de RPA.
 - 🌱 Atualmente tenho como foco o desenvolvimento mobile, estudando Flutter e Dart.
@@ -17,8 +11,8 @@ Me chamo Daniel, sou um jovem estudante de 17 anos, atualmente estou graduando n
 - ⚡"A excelência começa com um tipo particular de atitude".
 - 📫 Como me encontrar:
 
-| [<img src="https://raw.githubusercontent.com/Delta456/Delta456/master/img/github.png" alt="github logo" width="34">](http://github.com/danielPetroni/) | [<img src="https://github.com/Amchuz/Amchuz/blob/master/linkedin.jpeg" alt="linkedin logo" width="24">](https://www.linkedin.com/in/daniel-petroni-55aa691b4/) 
-|---|---|---|---|---|---|
+|---|---|---|---|[<img src="https://raw.githubusercontent.com/Delta456/Delta456/master/img/github.png" alt="github logo" width="34">](http://github.com/danielPetroni/) | [<img src="https://github.com/Amchuz/Amchuz/blob/master/linkedin.jpeg" alt="linkedin logo" width="24">](https://www.linkedin.com/in/daniel-petroni-55aa691b4/) 
+|---|---|---|---|
 
 ----
 
